@@ -1,0 +1,3 @@
+C:\Users\siust\source\repos\MutationTesting\CaesarCipherTests\obj\Debug\netcoreapp3.1\CaesarCipherTests.csprojAssemblyReference.cache
+C:\Users\siust\source\repos\MutationTesting\CaesarCipherTests\obj\Debug\netcoreapp3.1\CaesarCipherTests.AssemblyInfoInputs.cache
+C:\Users\siust\source\repos\MutationTesting\CaesarCipherTests\obj\Debug\netcoreapp3.1\CaesarCipherTests.AssemblyInfo.cs

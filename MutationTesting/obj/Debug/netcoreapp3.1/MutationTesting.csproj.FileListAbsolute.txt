@@ -1,0 +1,11 @@
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\bin\Debug\netcoreapp3.1\MutationTesting.exe
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\bin\Debug\netcoreapp3.1\MutationTesting.deps.json
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\bin\Debug\netcoreapp3.1\MutationTesting.runtimeconfig.json
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\bin\Debug\netcoreapp3.1\MutationTesting.runtimeconfig.dev.json
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\bin\Debug\netcoreapp3.1\MutationTesting.dll
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\bin\Debug\netcoreapp3.1\MutationTesting.pdb
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\obj\Debug\netcoreapp3.1\MutationTesting.AssemblyInfoInputs.cache
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\obj\Debug\netcoreapp3.1\MutationTesting.AssemblyInfo.cs
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\obj\Debug\netcoreapp3.1\MutationTesting.dll
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\obj\Debug\netcoreapp3.1\MutationTesting.pdb
+C:\Users\siust\source\repos\MutationTesting\MutationTesting\obj\Debug\netcoreapp3.1\MutationTesting.csprojAssemblyReference.cache
