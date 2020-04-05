@@ -16,6 +16,16 @@ namespace UnitTests
             Assert.AreEqual(Cipher2.Encrypt(InitialString, Shift), ExpectedString);
         }
         [TestMethod]
+        public void Decrypts_String()
+        {
+            string InitialString = "Khoor Zruog!";
+            string ExpectedString = "Hello World!";
+            int InitialShift = 3;
+            int Shift = 26 - InitialShift;
+            CaesarCipher Cipher2 = new CaesarCipher();
+            Assert.AreEqual(Cipher2.Encrypt(InitialString, Shift), ExpectedString);
+        }
+        [TestMethod]
         public void Text_Is_String()
         {
             Assert.IsInstanceOfType(Cipher.Text, typeof(string));
